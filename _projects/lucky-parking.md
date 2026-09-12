@@ -67,6 +67,7 @@ technologies:
   - MongoDB
   - AWS
   - Markdown
+  - Docker
 location:
   # - Santa Monica
   - Remote
